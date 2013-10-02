@@ -1,0 +1,15 @@
+{
+  "name": "connect-four",
+  "version": "0.0.1",
+  "author": "Loren <yuloren@gmail.comcom>",
+  "description": "a real-time connect four game",
+  "dependencies" : {
+    "express": "~3.3.4",
+    "jade": "~0.34.1",
+    "socket.io": "~0.9.16",
+    "underscore": "~1.5.1"
+  },
+  "engines": {
+    "node": ">=0.6"
+  }
+}
